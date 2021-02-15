@@ -1,6 +1,6 @@
 
 
-git --version.  #
+git --version.  #TEST
 
 mkdir folder
 git init
